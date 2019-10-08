@@ -2,7 +2,7 @@
 require 'pry'
 def badge_maker(name)
   msg = "Hello, my name is #{name}."
-  puts msg
+  #puts msg
   msg
 end
 
